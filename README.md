@@ -2,7 +2,7 @@ Bonjour,
 
 Vous trouverez dans cette zone de dépôt les fichiers 3D en format .STL et .FCStd (pour FreeCAD).
 
-Le fichier de code est également dans le dépôt ainsi que le pdf avec les explications. 
+Le fichier de code est également dans le dépôt ainsi que le pdf avec les explications. Pour le code, il vous faudra la library suivante : https://github.com/robopeak/rplidar_arduino 
 
 Si vous avez des questions n'hesitez pas à les poser sur le discord : https://discord.gg/tvKuAYsK (un salon est dédié au projet)
 
